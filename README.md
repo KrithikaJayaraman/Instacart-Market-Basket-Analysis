@@ -8,8 +8,6 @@ Objectives covered:
 2) Use of models to predict product reorder
 3) Identify customer clusters based on their purchases in different departments
 
-(Work in Progess)
-- Apriori algorithm for identifying frequent itemsets
 
 
 References:
